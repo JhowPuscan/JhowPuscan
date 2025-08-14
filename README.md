@@ -57,7 +57,24 @@ I'm a **Computer Systems Engineering Student** passionate about creating robust,
 - **Repositorios Activos**: 25+ (públicos y privados)
 - **Proyectos Completados**: 15+ aplicaciones
 - **Tecnologías Dominadas**: 20+ frameworks y herramientas
+## 📊 Development Activity
 
+<div align="center">
+  
+  ![Commits](https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git)
+  ![Repositories](https://img.shields.io/badge/Repositories-25%2B-green?style=for-the-badge&logo=github)
+  ![Projects](https://img.shields.io/badge/Projects-15%2B-orange?style=for-the-badge&logo=code)
+  ![Technologies](https://img.shields.io/badge/Technologies-20%2B-purple?style=for-the-badge&logo=stackoverflow)
+  
+</div>
+
+> **💼 Nota: Estas estadísticas incluyen tanto repositorios públicos como privados. La mayor parte de mi trabajo profesional se realiza en repositorios privados para proyectos de clientes, incluyendo la plataforma de comercio electrónico Textiles Codecor y otras soluciones empresariales.**
+
+### 📈 Actividad Real (2023-2025)
+- **Commits Totales**: 500+ (incluyendo proyectos privados)
+- **Repositorios Activos**: 25+ (públicos y privados)
+- **Proyectos Completados**: 15+ aplicaciones
+- **Tecnologías Dominadas**: 20+ frameworks y herramientas
 ## 🏆 Featured Projects
 
 ## 🚀 Current Project - Live Demo
