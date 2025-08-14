@@ -49,13 +49,20 @@ I'm a **Computer Systems Engineering Student** passionate about creating robust,
 
 ## 🏆 Featured Projects
 
+## 🚀 Current Project - Live Demo
+
 ### 🛠️ Textiles Codecor - E-commerce Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://textilescodecor.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhowPuscan/textiles-codecor)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> **Full-stack e-commerce platform with PWA features, real-time pricing calculator, and responsive admin panel. 32+ API endpoints, accessibility features, and WhatsApp integration.**
+> **🚀 Full-stack e-commerce platform currently in development. Features include PWA capabilities, real-time pricing calculator, responsive admin panel, 32+ API endpoints, accessibility features, and WhatsApp integration.**
+
+**✨ Key Features:** PWA Support | Real-time Pricing | Responsive Design | Accessibility | WhatsApp Integration | Admin Panel
 
 ### 🏥 Pharmacy Inventory System
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
