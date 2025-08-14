@@ -44,15 +44,7 @@ I'm a **Computer Systems Engineering Student** passionate about creating robust,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Development Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhowPuscan&show_icons=true&theme=radical&hide=contributions&count_private=true&include_all_commits=true&custom_title=Jhow%27s%20Development%20Activity&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&bg_color=0d1117&border_color=ff6b6b&border_radius=10&hide_border=false&show_owner=true&rank_icon=github&rank=SSS&include_all_commits=true&count_private=true&line_height=25&card_width=400&hide_rank=false&hide_title=false&hide=contributions,issues,prs,stars&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-> **💼 Nota: Estas estadísticas incluyen tanto repositorios públicos como privados. La mayor parte de mi trabajo profesional se realiza en repositorios privados para proyectos de clientes, incluyendo la plataforma de comercio electrónico Textiles Codecor y otras soluciones empresariales.**
-
-### 📈 Actividad Real (2023-2025)
+## 📊 Development Activity (2023-2025) 📈
 - **Commits Totales**: 500+ (incluyendo proyectos privados)
 - **Repositorios Activos**: 25+ (públicos y privados)
 - **Proyectos Completados**: 15+ aplicaciones
