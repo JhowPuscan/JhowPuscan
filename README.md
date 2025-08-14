@@ -1,5 +1,4 @@
-# 👋 Hi there, I'm Jhow David Puscan Guiop
-
+# 👋 Hi there, I'm Jhow D Puscan
 ## 🎯 About Me
 - 🔭 I'm currently working on **Textiles Codecor E-commerce Platform**
 - 🌱 I'm currently learning **Advanced React Patterns & Cloud Architecture**
