@@ -45,8 +45,14 @@ I'm a **Computer Systems Engineering Student** passionate about creating robust,
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
-![Jhow's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhowPuscan&show_icons=true&theme=radical)
+![Jhow's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhowPuscan&show_icons=true&theme=radical&hide=contributions&count_private=false&include_all_commits=true)
 
+> **💼 Note: These stats show public repositories only. Most of my professional work is in private repositories for client projects, including the Textiles Codecor e-commerce platform and other business solutions.**
+
+### 🎯 Current Focus
+- **Active Development**: Textiles Codecor E-commerce Platform
+- **Client Projects**: 4+ SMB applications in private repositories
+- **Learning**: Advanced React patterns and cloud architecture
 ## 🏆 Featured Projects
 
 ## 🚀 Current Project - Live Demo
