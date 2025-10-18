@@ -1,4 +1,4 @@
-# JHOW DAVID PUSCAN GUIOP
+# JHOW PUSCAN
 **Computer Systems Engineer | Full Stack Developer | Business Process Automation Specialist**
 
 📧 jdpuscan@gmail.com | 📞 +51 930 264 826 | 🌐 [Portfolio](https://jhowdavid.netlify.app/)  
