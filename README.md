@@ -1,125 +1,117 @@
-# 👋 Hi there, I'm Jhow D Puscan
-## 🎯 About Me
-- 🔭 I'm currently working on **Textiles Codecor E-commerce Platform**
-- 🌱 I'm currently learning **Advanced React Patterns & Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects & Business Solutions**
-- 💬 Ask me about **Full Stack Development, PWAs, & Business Process Automation**
-- 📫 How to reach me: **jdpuscan@gmail.com** 
+# JHOW DAVID PUSCAN GUIOP
+**Computer Systems Engineer | Full Stack Developer | Business Process Automation Specialist**
 
-## 🚀 What I Do
-I'm a **Computer Systems Engineer** with a **Technical Degree in International Business Administration**, bringing a unique blend of technical expertise and business acumen to software development. I specialize in **Full Stack Development**, **Progressive Web Applications (PWAs)**, and **Business Process Automation**, delivering measurable improvements of 30-70% in operational efficiency for SMBs and enterprise clients.
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 Development Activity (2023-2025) 📈
-- **Commits Totales**: 500+ (incluyendo proyectos privados)
-- **Repositorios Activos**: 25+ (públicos y privados)
-- **Proyectos Completados**: 15+ aplicaciones
-- **Tecnologías Dominadas**: 20+ frameworks y herramientas
-
-## 📊 Development Activity
-
-<div align="center">
-  
-  ![Commits](https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git)
-  ![Repositories](https://img.shields.io/badge/Repositories-25%2B-green?style=for-the-badge&logo=github)
-  ![Projects](https://img.shields.io/badge/Projects-15%2B-orange?style=for-the-badge&logo=code)
-  ![Technologies](https://img.shields.io/badge/Technologies-20%2B-purple?style=for-the-badge&logo=stackoverflow)
-  
-</div>
-
-> **💼 Nota: Estas estadísticas incluyen tanto repositorios públicos como privados. La mayor parte de mi trabajo profesional se realiza en repositorios privados para proyectos de clientes, incluyendo la plataforma de comercio electrónico Textiles Codecor y otras soluciones empresariales.**
-
-### 📈 Actividad Real (2023-2025)
-- **Commits Totales**: 500+ (incluyendo proyectos privados)
-- **Repositorios Activos**: 25+ (públicos y privados)
-- **Proyectos Completados**: 15+ aplicaciones
-- **Tecnologías Dominadas**: 20+ frameworks y herramientas
-
-## 🏆 Featured Projects
-
-## 🚀 Current Project - Live Demo
-
-### 🛠️ Textiles Codecor - E-commerce Platform
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://textilescodecor.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhowPuscan/textiles-codecor)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-> **🚀 Full-stack e-commerce platform currently in development. Features include PWA capabilities, real-time pricing calculator, responsive admin panel, 32+ API endpoints, accessibility features, and WhatsApp integration.**
-
-**✨ Key Features:** PWA Support | Real-time Pricing | Responsive Design | Accessibility | WhatsApp Integration | Admin Panel
-
-### 🏥 Pharmacy Inventory System
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-> **Complete inventory and reporting system for pharmaceutical operations with automated processes.**
-
-### 📱 Android Booking App
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-> **Real-time room management and notifications for hotels/hostels with Firebase integration.**
-
-## 🌟 What I'm Proud Of
-- 🚀 **4 Complete Applications** developed from scratch for SMBs
-- 📈 **30-70% Process Improvement** through automation
-- 🎯 **PWA Implementation** with offline support and push notifications
-- ♿ **Accessibility Features** for inclusive user experience
-- ☁️ **Cloud Deployment** expertise across multiple platforms
-- 🎓 **Dual Expertise**: Computer Systems Engineering + International Business Administration
-- 🐍 **Python Development** for data analysis and automation scripts
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpuscan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jhowdavid.netlify.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdpuscan@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jhow-david-puscan-guiop)
-
-## 📚 Currently Learning
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+📧 jdpuscan@gmail.com | 📞 +51 930 264 826 | 🌐 [Portfolio](https://jhowdavid.netlify.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/davidpuscan/) | 🖥️ [GitHub](https://github.com/JhowPuscan) | 🏆 [Certifications](https://www.credly.com/users/jhow-david-puscan-guiop)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhowPuscan&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+## PROFESSIONAL SUMMARY
+**Computer Systems Engineer** with **Technical Degree in International Business Administration**, specializing in full-stack development and business process automation. Proven track record of delivering **30-70% operational improvements** through scalable web applications and PWA solutions. Expert in modern tech stacks (React, Node.js, Python, Java) with strong business acumen for translating requirements into efficient technical solutions.
+
+---
+
+## EDUCATION
+**🎓 Computer Systems Engineering** | Universidad Privada del Norte, Peru (2021-2025)  
+**🎓 Technical Degree in International Business Administration** | Instituto ADEX, Peru (2015-2017)
+
+---
+
+## TECHNICAL SKILLS
+
+### **Frontend Development**
+React, Angular, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, PWA Development
+
+### **Backend Development** 
+Node.js, Python, Java, Spring Boot, ASP.NET Core, RESTful APIs, JWT Authentication
+
+### **Database & Cloud**
+MySQL, PostgreSQL, Firebase, Supabase, AWS, Azure, Netlify, Vercel, Render, Railway
+
+### **Mobile Development**
+Android (Java), Kotlin, Firebase Integration, Real-time Notifications
+
+### **Tools & Platforms**
+Git, GitHub, VS Code, Visual Studio, ClickUp, Figma, Power BI, Excel
+
+### **Systems & Networking**
+Windows Server, Ubuntu, Amazon Linux 2, Cisco IOS, Wireshark, CCNA v7
+
+### **Languages**
+Spanish (Native), English (Intermediate)
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### **💼 Full Stack Developer & Technical Lead** | Independent Projects | 2023-2025
+- **Developed 4 complete applications** from scratch for SMBs, achieving **30-70% process improvements**
+- **Led technical implementation** of e-commerce platforms, inventory systems, and booking applications
+- **Architected scalable solutions** using React, Node.js, Python, and cloud platforms (AWS, Azure)
+- **Implemented PWA features** including offline functionality, push notifications, and device installation
+- **Integrated accessibility features** ensuring inclusive user experience across all platforms
+- **Managed project lifecycle** from requirements analysis to production deployment
+
+### **💼 Transportation Inspector** | Lima and Callao Urban Transport Authority | 2022-2025
+- **Supervised regulatory compliance** and optimized operator registration processes
+- **Enhanced customer service** through process improvement and stakeholder communication
+- **Developed problem-solving skills** in high-pressure regulatory environment
+
+### **💼 Customer Service Specialist** | Various Companies | 2018-2022
+- **Resolved technical incidents** and provided user support across multiple platforms
+- **Developed strong communication skills** for technical and non-technical audiences
+
+---
+
+## FEATURED PROJECTS
+
+### **🛠️ Textiles Codecor - E-commerce Platform** | [Live Demo](https://textilescodecor.netlify.app/)
+**Tech Stack:** React, Node.js, PostgreSQL, Tailwind CSS, PWA
+- **Progressive Web Application** with offline functionality and push notifications
+- **Real-time pricing calculator** with 32+ API endpoints
+- **Accessibility features** and responsive design for all devices
+- **WhatsApp integration** for customer support and order management
+
+### **🛠️ Pharmacy Inventory System** | Java, MySQL, Spring Boot
+- **Complete inventory management** with automated reporting and analytics
+- **Real-time stock tracking** and supplier management integration
+- **Automated process optimization** reducing manual work by 40%
+
+### **🛠️ Android Booking Application** | Java, Firebase, MySQL
+- **Real-time room management** for hotels and hostels
+- **Push notification system** for booking confirmations and updates
+- **Multi-role user management** with different access levels
+
+### **🛠️ Restaurant Management System** | HTML, CSS, JavaScript
+- **Integrated restaurant operations** including inventory, sales, and staff management
+- **Real-time analytics dashboard** for business performance tracking
+
+---
+
+## KEY ACHIEVEMENTS
+- 🚀 **4 Complete Applications** developed from scratch for SMBs
+- 📈 **30-70% Process Improvement** through automation and optimization
+- 🎯 **PWA Implementation** with offline support and native app experience
+- ♿ **Accessibility Compliance** ensuring inclusive user experience
+- ☁️ **Cloud Deployment** expertise across multiple platforms
+- 🎓 **Dual Expertise** combining technical skills with business administration knowledge
+
+---
+
+## SOFT SKILLS
+- **Leadership:** Led small teams in independent and university projects
+- **Problem Solving:** Strong analytical and decision-making capabilities
+- **Project Management:** Organized, results-oriented with excellent planning skills
+- **Adaptability:** Continuous learning mindset and ability to work with diverse teams
+- **Communication:** Technical and non-technical stakeholder management
+
+---
+
+## CERTIFICATIONS & CONTINUOUS LEARNING
+- **CCNA v7** - Cisco Networking
+- **Big Data Analytics** - Data Analysis and Visualization
+- **Currently Learning:** Kotlin, Docker, Kubernetes, Advanced Cloud Architecture
+
+---
+
+*Available for remote positions worldwide. Open to relocation for the right opportunity.*
