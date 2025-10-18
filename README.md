@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **I can debug code while managing transport regulations! 🚌💻**
 
 ## 🚀 What I Do
-I'm a **Computer Systems Engineering Student** passionate about creating robust, accessible, and modern digital solutions. I specialize in **Progressive Web Apps (PWAs)** and **Business Process Automation**, helping SMBs improve their operations by 30-70%.
+I'm a **Computer Systems Engineer** with proven experience in developing scalable, enterprise-grade solutions. I specialize in **Full Stack Development**, **Progressive Web Applications (PWAs)**, and **Business Process Automation**, delivering measurable improvements of 30-70% in operational efficiency for SMBs and enterprise clients.
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +48,7 @@ I'm a **Computer Systems Engineering Student** passionate about creating robust,
 - **Repositorios Activos**: 25+ (públicos y privados)
 - **Proyectos Completados**: 15+ aplicaciones
 - **Tecnologías Dominadas**: 20+ frameworks y herramientas
+
 ## 📊 Development Activity
 
 <div align="center">
@@ -66,6 +67,7 @@ I'm a **Computer Systems Engineering Student** passionate about creating robust,
 - **Repositorios Activos**: 25+ (públicos y privados)
 - **Proyectos Completados**: 15+ aplicaciones
 - **Tecnologías Dominadas**: 20+ frameworks y herramientas
+
 ## 🏆 Featured Projects
 
 ## 🚀 Current Project - Live Demo
