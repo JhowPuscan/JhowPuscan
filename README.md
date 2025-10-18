@@ -4,8 +4,7 @@
 - 🌱 I'm currently learning **Advanced React Patterns & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects & Business Solutions**
 - 💬 Ask me about **Full Stack Development, PWAs, & Business Process Automation**
-- 📫 How to reach me: **jdpuscan@gmail.com**
-- ⚡ Fun fact: **I can debug code while managing transport regulations! 🚌💻**
+- 📫 How to reach me: **jdpuscan@gmail.com** 
 
 ## 🚀 What I Do
 I'm a **Computer Systems Engineer** with proven experience in developing scalable, enterprise-grade solutions. I specialize in **Full Stack Development**, **Progressive Web Applications (PWAs)**, and **Business Process Automation**, delivering measurable improvements of 30-70% in operational efficiency for SMBs and enterprise clients.
