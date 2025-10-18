@@ -7,7 +7,7 @@
 - 📫 How to reach me: **jdpuscan@gmail.com** 
 
 ## 🚀 What I Do
-I'm a **Computer Systems Engineer** with proven experience in developing scalable, enterprise-grade solutions. I specialize in **Full Stack Development**, **Progressive Web Applications (PWAs)**, and **Business Process Automation**, delivering measurable improvements of 30-70% in operational efficiency for SMBs and enterprise clients.
+I'm a **Computer Systems Engineer** with a **Technical Degree in International Business Administration**, bringing a unique blend of technical expertise and business acumen to software development. I specialize in **Full Stack Development**, **Progressive Web Applications (PWAs)**, and **Business Process Automation**, delivering measurable improvements of 30-70% in operational efficiency for SMBs and enterprise clients.
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +22,7 @@ I'm a **Computer Systems Engineer** with proven experience in developing scalabl
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,6 +39,7 @@ I'm a **Computer Systems Engineer** with proven experience in developing scalabl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -102,6 +104,8 @@ I'm a **Computer Systems Engineer** with proven experience in developing scalabl
 - 🎯 **PWA Implementation** with offline support and push notifications
 - ♿ **Accessibility Features** for inclusive user experience
 - ☁️ **Cloud Deployment** expertise across multiple platforms
+- 🎓 **Dual Expertise**: Computer Systems Engineering + International Business Administration
+- 🐍 **Python Development** for data analysis and automation scripts
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpuscan/)
